@@ -10,7 +10,7 @@ Below is an example of how you can set up the **DiscordJS Bot Template** for you
 1. **Clone the Repository**  
    Open your terminal and run the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/NoSkill33/DiscordJS-Bot-Template.git
+   git clone https://github.com/october37/DiscordJS-Bot-Template.git
 
 2. **Navigate to the Project Directory**  
    Change to the directory where the bot was cloned:
@@ -33,9 +33,6 @@ Below is an example of how you can set up the **DiscordJS Bot Template** for you
 > [!CAUTION]
 > **Important**: Please refrain from sharing your Discord bot token! Sharing your token can give unauthorized users complete control over your bot. To keep your token secure, store it safely in a .json file.
 
-## Authors
-- **NoSkill** - **Created the initial version of the template and is actively working on improving the bot.**
-
 See also the list of
-[contributors](https://github.com/NoSkill33/DiscordJS-Bot-Template/contributors)
+[contributors](https://github.com/october37/DiscordJS-Bot-Template/contributors)
 who have contributed to this project.
