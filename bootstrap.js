@@ -47,7 +47,7 @@ client.once(Events.ClientReady, async () => {
   client.user.setPresence({
     activities: [
       {
-        name: `Discord JS Bot Template - https://github.com/NoSkill33`,
+        name: `Discord JS Bot Template - https://github.com/october37`,
         type: ActivityType.Custom,
       },
     ],
