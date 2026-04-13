@@ -15,7 +15,7 @@
     "discord.js": "^14.26.0",
     "mongoose": "^8.9.5",
     "node-fetch": "^3.3.2",
-    "systeminformation": "^5.27.14",
+    "systeminformation": "^5.30.8",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
