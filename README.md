@@ -1,6 +1,4 @@
 # DiscordJS Bot Template
-![](./public/template_bot.png)
-
 ## Getting Started
 These instructions will help you set up a local copy of the project for development and testing purposes.
 
