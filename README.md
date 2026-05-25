@@ -1,8 +1,4 @@
-# DiscordJS Bot Template
-## Getting Started
-These instructions will help you set up a local copy of the project for development and testing purposes.
-
-### Installation
+## Installation
 Below is an example of how you can set up the **DiscordJS Bot Template** for your Project:
 
 1. **Clone the Repository**  
